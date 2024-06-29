@@ -62,7 +62,7 @@ Your score: 1/2
 ## Author
 
 - khushi
-- GitHub: [your-username](https://github.com/starkhushi)
+- GitHub: [starkhushi](https://github.com/starkhushi)
 
 ## License
 
